@@ -38,6 +38,8 @@ References
 
 8. Alberto Rodrigues da Silva, Linguistic Patterns and Styles for Requirements Specification: The RSL/Business-Level Language, Proceedings of EuroPLOP’2017, Hillside Europe, 2017. https://www.researchgate.net/publication/317167533_Linguistic_Patterns_and_Styles_for_Requirements_Specification_The_RSLBusiness-Level_Language
 
+Alberto Rodrigues da Silva, Linguistic Patterns and Linguistic Styles for Requirements Specification (I): An Application Case with the Rigorous RSL/Business-Level Language, Proceedings of EuroPLOP’2017, ACM, 2017. http://isg.inesc-id.pt/alb/static/papers/2017/c143-as-2017-europlop-RSL-BusinessLevel-ACM.pdf
+
 Licence
 --------------------------------------------------------------------------------------
 This material is released under the Eclipse Public License (EPL) - Version 1.0.
