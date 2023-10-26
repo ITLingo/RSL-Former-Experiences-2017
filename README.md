@@ -1,17 +1,17 @@
-## RSLingo's RSL (Requirements Specification Language)
+## ITLingo RSL (Requirements Specification Language)
 
 Copyright
 --------------------------------------------------------------------------------------
-© 2016 Alberto Rodrigues da Silva (coordinator) et al., Instituto Superior Técnico, Universidade de Lisboa. All rights reserved.
+© 2016-2023 Alberto Rodrigues da Silva (coordinator) et al., Instituto Superior Técnico, Universidade de Lisboa. All rights reserved.
 
-This material is available for academic, research and comercial purpose, however, You should keep the authors and copyright notice.
-Any use of this software constitutes full acceptance of all terms of the software's license.
+This material is available for academic, research and commercial purposes; however, You should keep the authors and copyright notice.
+Any use of this software constitutes full acceptance of all the software's license terms.
 
 Description
 --------------------------------------------------------------------------------------
-This repository publishes the “RSLingo's RSL” that is a System Requirements Specification (SRS) language based on the multi-view architecture and inspired on the design of several former languages such as RSL-IL [1,2], XIS* [5,6] and SilabREQ [7], and that is aware of the problems and practical recommendations discussed in [4,5].
+This repository publishes the “ITLingo RSL”, which is a System Requirements Specification (SRS) language based on the multi-view architecture and inspired by the design of several former languages such as RSL-IL [1,2], XIS* [5,6] and SilabREQ [7], and that is aware of the problems and practical recommendations discussed in [4,5].
 
-The RSLingo's RSL is implemented with the Xtext framework (see http://www.eclipse.org/Xtext/).
+The ITLingo RSL has been implemented with the Xtext and Langium frameworks (see http://www.eclipse.org/Xtext/ and https://langium.org/).
 
 
 Feedback
